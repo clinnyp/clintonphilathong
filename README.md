@@ -5,5 +5,6 @@
 - 🌱 I’m currently learning TypeScript & Next.Js
 - 📫 How to reach me: 
 
+
 - Email - cphilathong@protonmail.com
-- Linkedin - https://www.linkedin.com/in/clinton-philathong-2a9729169/
+- Linkedin - www.linkedin.com/in/clinton-philathong
