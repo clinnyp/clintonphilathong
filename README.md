@@ -6,5 +6,5 @@
 - 📫 How to reach me: 
 
 
-- Email - cphilathong@protonmail.com
+- Email - philathongc@gmail.com
 - Linkedin - www.linkedin.com/in/clinton-philathong
