@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Full Stack Software Developer 
+- 💻 Software Engineer 
 - 📚 Currently studying Electrical & Electronics Engineering at The University of Auckland
 - 📫 How to reach me: 
 
