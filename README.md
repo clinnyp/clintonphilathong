@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💻 Software Engineer 
-- 📚 Currently studying Electrical & Electronics Engineering at The University of Auckland
+- 💻 Software Engineer at Dolla 
+- 📚 Electrical & Electronics Engineering at The University of Auckland
 - 📫 How to reach me: 
 
   - Email - philathongc@gmail.com
