@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💻 Software Engineer at Dolla 
 - 📚 Electrical & Electronics Engineering at The University of Auckland
 - 📫 How to reach me: 
 
