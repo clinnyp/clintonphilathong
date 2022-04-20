@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 Electrical & Electronics Engineering at The University of Auckland
+- 📚 I'm a Full Stack Developer and Electrical & Electronics Engineering Student at The University of Auckland
 - 📫 How to reach me: 
   
 
